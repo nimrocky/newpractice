@@ -1,3 +1,6 @@
-password.txt
-githubdetails.txt
-dockerhubdetails.txt
+*.txt
+*.jped
+*.pem
+*.json
+*.passwd
+*./images
